@@ -1,2 +1,2 @@
 # Survey-Form
-Exercise from FreeCodeCamp course
+Exercise #2 from FreeCodeCamp course
